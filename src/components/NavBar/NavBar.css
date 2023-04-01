@@ -1,0 +1,13 @@
+.nav-style {
+    background-color: rgb(218, 109, 0);
+}
+
+.link-style {
+    color: white;
+}
+
+.img-nav {
+    border-radius: 10%;
+    width: 120px;
+    height: 100px;
+}
