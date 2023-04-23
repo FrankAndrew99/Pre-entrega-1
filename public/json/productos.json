@@ -1,0 +1,110 @@
+[
+    {
+       "id": 1,
+       "idCategoria": 1,
+       "nombre": "Inexperta",
+       "combo": "gaseosa y papas chicas",
+       "precio": 1750,
+       "stock": 100,
+       "img": "img/inexperta.jpeg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Never Dieta",
+        "combo": "gaseosa/cerveza y papas chicas",
+        "precio": 2260,
+        "stock": 100,
+        "img": "img/never-dieta.jpeg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Fantasy Serrana",
+        "precio": 2690,
+        "combo": "gaseosa/cerveza y papas chicas",
+        "stock": 100,
+        "img": "img/fantasy-serrana.jpeg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Indie Moda",
+        "precio": 2470,
+        "combo": "bebida y papas chicas",
+        "stock": 100,
+        "img": "img/inexperta.jpeg"
+    },
+    {
+        "id":5,
+        "idCategoria": 2,
+        "nombre": "Combo Never Dieta",
+        "combo": "gaseosa mediana y papas medianas",
+        "precio": 2620,
+        "stock": 80,
+        "img": "img/combo-never.jpeg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Combo Inexperta Gourmet",
+        "combo": "papas grandes",
+        "precio": 2300,
+        "stock": 60,
+        "img": "img/inexperta.jpeg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombre": "Papas Chicas",
+        "combo": "porcion individual",
+        "precio": 690,
+        "stock": 100,
+        "img": "img/papas-chicas.jpeg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Nuggets de pollo",
+        "combo": "para 2 personas",
+        "precio": 1100,
+        "stock": 100,
+        "img": "img/nuggets.jpeg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Camarones fritos",
+        "combo": "porcion individual",
+        "precio": 1400,
+        "stock": 80,
+        "img": "img/camarones.jpeg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Tabla combinada",
+        "combo": "para 2 personas",
+        "precio": 2350,
+        "stock": 80,
+        "img": "img/tabla-combinada.jpeg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 4,
+        "nombre": "Gaseosa 473 cm3",
+        "combo": "Linea Coca-Cola",
+        "precio": 400,
+        "stock": 100,
+        "img": "img/gaseosa.jpeg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "nombre": "Cerveza 350 cm3",
+        "combo": "Heineken",
+        "precio": 400,
+        "stock": 100,
+        "img": "img/cerveza.jpeg"
+    }                          
+]
